@@ -9,7 +9,7 @@ We post updates here from time to time
 
 ## Links
 
-- [Discussion](https://kusama.polkassembly.io/post/2413)
 - [Referenda](https://kusama.polkassembly.io/referenda/105)
-- [Proposal](https://docs.google.com/document/d/15F79YMx5B5qGB3N8AlPD9r7UYW4WcH-AECFNIb6BmnA/edit#heading=h.d1jf1dgpau8)
+- [Discussion](https://kusama.polkassembly.io/post/2413)
+- [Proposal document](https://docs.google.com/document/d/15F79YMx5B5qGB3N8AlPD9r7UYW4WcH-AECFNIb6BmnA/edit#heading=h.d1jf1dgpau8)
 
