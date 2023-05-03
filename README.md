@@ -6,7 +6,7 @@ We post updates here from time to time
   - we are starting to appreciate the complexities and the amount of work required to get the data loaded and indexed
 
 - 2023.03 - started work on app. 
-  - [for the brave, there is an alpha site](https://alpha.subledr.com)
+  - [for the brave, there is an alpha site](https://alpha.subledgr.com)
 
 - 2023.03.08 - ported `polka-store` over to sequelize.org
   - [TheGoldenEye/polka-store issue raised](https://github.com/TheGoldenEye/polka-store/issues/6)
